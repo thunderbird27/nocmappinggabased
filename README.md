@@ -1,4 +1,5 @@
 #nocspinmodel
+
 Use formal model in fitness operator of Generic Algorithm (GA) to generate population through mutation and crossover to identify optimal mapping solution in NoCs.
 
 The results of formal mapping was publish in IEEE conference paper in 2014.
